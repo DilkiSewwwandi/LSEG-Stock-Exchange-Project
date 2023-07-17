@@ -1,0 +1,33 @@
+Cl.Ord.Id,Instrument,Side,Exec. Status,Quantity,Price,time,reason,
+ord1,aa13,Rose,2,new,100,55,,2023-07-11 17:43:37.272
+ord2,aa14,Rose,1,new,100,12,,2023-07-11 17:43:37.272
+ord3,aa15,Rose,2,new,100,45,,2023-07-11 17:43:37.272
+ord2,aa14,Rose,1,new,100,12,,2023-07-11 17:43:37.272
+ord5,aa17,Rose,2,new,100,15,,2023-07-11 17:43:37.272
+ord5,aa17,Rose,2,new,100,15,,2023-07-11 17:43:37.272
+ord2,aa14,Rose,1,new,100,12,,2023-07-11 17:43:37.272
+ord8,aa20,Rose,1,pfill,100,15,,2023-07-11 17:43:37.272
+ord5,aa17,Rose,2,fill,100,15,,2023-07-11 17:43:37.272
+ord3,aa15,Rose,2,fill,100,45,,2023-07-11 17:43:37.272
+ord8,aa20,Rose,1,fill,100,45,,2023-07-11 17:43:37.272
+ord9,aa22,Rose,1,new,300,20,,2023-07-11 17:43:37.272
+10,aa23,sun,2,Rejected,300,35,Invalid instrument,2023-07-11 17:43:37.280
+11,aa24,sun,1,Rejected,300,100,Invalid instrument,2023-07-11 17:43:37.280
+12,aa25,sun,2,Rejected,300,3,Invalid instrument,2023-07-11 17:43:37.280
+ord1,aa13,Rose,2,new,100,55,,2023-07-11 17:43:37.280
+14,aa14,sun,1,Rejected,100,12,Invalid instrument,2023-07-11 17:43:37.280
+15,aa15,sun,2,Rejected,100,45,Invalid instrument,2023-07-11 17:43:37.280
+16,aa16,sun,1,Rejected,200,4,Invalid instrument,2023-07-11 17:43:37.280
+17,,sun,1,Rejected,200,4,Invalid instrument,2023-07-11 17:43:37.280
+18,,sun,1,Rejected,200,4,Invalid instrument,2023-07-11 17:43:37.280
+19,,sun,1,Rejected,200,4,Invalid instrument,2023-07-11 17:43:37.280
+20,,sun,1,Rejected,200,4,Invalid instrument,2023-07-11 17:43:37.280
+21,,sun,1,Rejected,200,4,Invalid instrument,2023-07-11 17:43:37.280
+22,,sun,1,Rejected,200,4,Invalid instrument,2023-07-11 17:43:37.288
+23,,sun,1,Rejected,200,4,Invalid instrument,2023-07-11 17:43:37.288
+24,,sun,1,Rejected,200,4,Invalid instrument,2023-07-11 17:43:37.288
+25,,sun,1,Rejected,200,4,Invalid instrument,2023-07-11 17:43:37.288
+26,,sun,1,Rejected,200,4,Invalid instrument,2023-07-11 17:43:37.288
+27,,sun,1,Rejected,200,4,Invalid instrument,2023-07-11 17:43:37.288
+28,,sun,1,Rejected,200,4,Invalid instrument,2023-07-11 17:43:37.288
+29,,sun,1,Rejected,200,4,Invalid instrument,2023-07-11 17:43:37.288
